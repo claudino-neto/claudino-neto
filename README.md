@@ -22,7 +22,7 @@
   PT-BR 🇧🇷: 👋 Olá! Eu sou Claudino, estudante de Ciência da Computação no Centro de Informática (CIn) da UFPE e atualmente trabalhando na TPF Engenharia.
 No meu tempo livre, adoro bater papo com os amigos e relaxar jogando videogame. Estou sempre em busca de novos desafios e aprendizados, explorando o fascinante mundo da tecnologia.
 </p>
-<p> EN-US 🇺🇸: 👋 Hi there! I'm [Your Name], a Computer Science student at the Center for Informatics (CIn) at UFPE and currently working at TPF Engenharia.
+<p> EN-US 🇺🇸: 👋 Hi there! I'm Claudino, a Computer Science student at the Center for Informatics (CIn) at UFPE and currently working at TPF Engenharia.
 In my free time, I love chatting with friends and enjoying some gaming sessions. I'm always on the lookout for new challenges and learning opportunities, exploring the fascinating world of technology.
 </p>
 
