@@ -6,8 +6,8 @@
 </h1>
 
 <p align='left'>
-  Desenvolvedor e estudante de Ciência da Computação do Centro de Informática (CIn) - UFPE
-  Atualmente trabalhando na TPF Engenharia como desenvolvedor back-end
+  Desenvolvedor e estudante de Ciência da Computação do Centro de Informática (CIn) - UFPE.
+  Atualmente trabalhando na TPF Engenharia como desenvolvedor full-stack
 </p>
 
 <p align='left'>
